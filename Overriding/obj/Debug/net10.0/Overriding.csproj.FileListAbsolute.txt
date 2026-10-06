@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\Overriding.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\Overriding.AssemblyInfo.cs
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Vsc\Overriding\bin\Debug\net10.0\Overriding.exe
+C:\Users\Acer\Documents\Vsc\Overriding\bin\Debug\net10.0\Overriding.deps.json
+C:\Users\Acer\Documents\Vsc\Overriding\bin\Debug\net10.0\Overriding.runtimeconfig.json
+C:\Users\Acer\Documents\Vsc\Overriding\bin\Debug\net10.0\Overriding.dll
+C:\Users\Acer\Documents\Vsc\Overriding\bin\Debug\net10.0\Overriding.pdb
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\Overriding.dll
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\refint\Overriding.dll
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\Overriding.pdb
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\Overriding.genruntimeconfig.cache
+C:\Users\Acer\Documents\Vsc\Overriding\obj\Debug\net10.0\ref\Overriding.dll

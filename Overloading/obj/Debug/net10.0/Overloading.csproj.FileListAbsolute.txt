@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\Vsc\Overloading\bin\Debug\net10.0\Overloading.exe
+C:\Users\Acer\Documents\Vsc\Overloading\bin\Debug\net10.0\Overloading.deps.json
+C:\Users\Acer\Documents\Vsc\Overloading\bin\Debug\net10.0\Overloading.runtimeconfig.json
+C:\Users\Acer\Documents\Vsc\Overloading\bin\Debug\net10.0\Overloading.dll
+C:\Users\Acer\Documents\Vsc\Overloading\bin\Debug\net10.0\Overloading.pdb
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\Overloading.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\Overloading.AssemblyInfo.cs
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\Overloading.dll
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\refint\Overloading.dll
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\Overloading.pdb
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\Overloading.genruntimeconfig.cache
+C:\Users\Acer\Documents\Vsc\Overloading\obj\Debug\net10.0\ref\Overloading.dll
